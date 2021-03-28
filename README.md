@@ -1,1 +1,3 @@
-# Docker zsh
+# zsh
+
+My zsh config
